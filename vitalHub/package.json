@@ -40,7 +40,8 @@
     "react-native-screens": "~3.22.0",
     "react-native-svg": "^14.1.0",
     "react-native-web": "~0.19.6",
-    "styled-components": "^6.1.2"
+    "styled-components": "^6.1.2",
+    "expo-notifications": "~0.20.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
